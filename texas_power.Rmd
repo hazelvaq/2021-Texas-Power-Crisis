@@ -11,7 +11,7 @@ published: 10-23-2023
 categories: [Quarto, MEDS, Workshop, R, Geospatial]
 citation: 
   url: https://hazelvaq.github.io/blog/2023-12-13-houston-power-outage/
-#image: imagename.png
+image: income_census.png
 draft: false
 ---
 
