@@ -27,10 +27,11 @@ Data was obtained from:
 Data is currently not included in the repo and is included in the `.gitignore`
 
 ## File Structure
-
+``` markdown
 ├── 2021-Texas-Power-Crisis.Rproj
 ├── images
 │   └── income_census.png
 ├── README.md
 ├── texas_power.html
 └── texas_power.Rmd
+```
