@@ -27,6 +27,7 @@ Data was obtained from:
 Data is currently not included in the repo and is included in the `.gitignore`
 
 ## File Structure
+
 ``` markdown
 ├── 2021-Texas-Power-Crisis.Rproj
 ├── images
